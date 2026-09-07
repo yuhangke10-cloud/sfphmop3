@@ -1,4 +1,4 @@
-# Option3 v0.1.0
+# Option3 v0.1.1
 
 打开 index.html 预览。支持 Light/Dark 及 Line、Satellite、Network 三种地图按钮切换，主题切换保留地图选择。高度优先、水平居中。六张原始 7680×4320 PNG 无降质保存。
 
